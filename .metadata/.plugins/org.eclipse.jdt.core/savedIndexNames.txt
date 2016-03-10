@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\jamie_000\Documents\GitHub\BookKeeper\.metadata\.plugins\org.eclipse.jdt.core
+1242116078.index
